@@ -50,21 +50,6 @@ A software developer in the making — focused on **TypeScript**, **React**, and
 
 ---
 
-## LeetCode
-
-<picture>
-  <source
-    srcset="https://leetcard.jacoblin.cool/leemjnnkdzuy?theme=dark&font=Inter&ext=heatmap"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img
-    src="https://leetcard.jacoblin.cool/leemjnnkdzuy?theme=light&font=Inter&ext=heatmap"
-    alt="LeetCode stats"
-  />
-</picture>
-
----
-
 ## Links
 
 - Facebook: https://www.facebook.com/leemjnnkdzuy
